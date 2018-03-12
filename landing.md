@@ -1,7 +1,7 @@
 ---
 title: Daha Fazla ...
 layout: landing
-description: 'Belki farklı birşeyler okumak istersin!?<br />Sadece sayfayı aşağı kaydır.'
+description: 'Belki farklı birşeyler okumak istersin !?<br />Sadece sayfayı aşağı kaydır.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -89,11 +89,12 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Steve Jobs</h2>
+			<h2>Mustafa GÜNEŞ</h2>
 		</header>
-		<p>"Yaratıcılık, sadece nesneleri birbirine bağlamaktır. Yaratıcı yeteneklere sahip insanlara bir şeyi nasıl yaptıklarını sorduğunuzda, bu konuda biraz suçlu hissediyorlar, çünkü aslında onlar bir şey yapmadılar, sadece bir şeyler gördüler."</p>
+		<p>Yazılımla lisenin başlarında tanışmıştım. O dönemlerde "Bu oyunları nasıl yapıyorlar, Bu butona bastığımda beni nasıl anlıyor" falan diye sorgularken meslek lisesi bilgisayar bölümü okuyan arkadaşımın bilgisayarın dilleri var 0 ve 1 den oluşan rakamlarla derdini anlatıyorsun demişti. Aslında hikayemin heyacanlı kısmına gelmedim hala. 
+		<br> Özgeçmişim ve yazılımla tanışma hikayem için aşağıdaki butona tıkla !</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Başlayalım</a></li>
+			<li><a href="generic.html" class="button next">Hakkımda</a></li>
 		</ul>
 	</div>
 </section>

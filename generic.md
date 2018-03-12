@@ -1,8 +1,8 @@
 ---
-title: Jenerik
+title: Hakkımda
 layout: post
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+description: Özgeçmişim ve Hakkımda
+image: assets/images/profile.jpeg
 nav-menu: true
 ---
 

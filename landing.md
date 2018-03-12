@@ -1,7 +1,7 @@
 ---
 title: Daha Fazla ...
 layout: landing
-description: 'Belki farklı birşeyler okumak istersin<br />Sadece sayfayı aşağı kaydır.'
+description: 'Belki farklı birşeyler okumak istersin!?<br />Sadece sayfayı aşağı kaydır.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---

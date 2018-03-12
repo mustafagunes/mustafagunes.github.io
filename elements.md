@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Öğeler
 nav-menu: true
 ---
 

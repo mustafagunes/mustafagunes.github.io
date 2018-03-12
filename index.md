@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Home
-landing-title: 'Hi, my name is Forty'
+title: Ana Sayfa
+landing-title: 'Merhaba, ben Mustafa GÜNEŞ'
 description: null
 image: null
 author: null

@@ -11,7 +11,7 @@ city: Gaziantep
 state: TR
 zip_code: 27500
 country: Türkiye
-phone: (542) 528-6341
+phone: 0 (542) 528-6341
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -19,8 +19,8 @@ tiles-count: 6
 
 # social settings
 500px_url:
-facebook_url:
-github_url:
+facebook_url: https://www.facebook.com/gunesim.soft
+github_url: https://github.com/mustafagunes
 gitlab_url: https://gitlab.com/mustafagunes
 googleplus_url: https://plus.google.com/
 instagram_url: https://instagram.com/mustafagunes_1

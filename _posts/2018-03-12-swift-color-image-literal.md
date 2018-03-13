@@ -19,4 +19,4 @@ image: assets/images/color-image-literal/xcode-logo.png
 
 <p name="b911" id="b911" class="graf graf--p graf-after--figure graf--trailing">Normalde <strong class="markup--strong markup--p-strong">Image Literal</strong> yazıp ardından açılan menüden eklemek istediğimiz dosyayı seçiyoruz ama direk filename‘ i tuşlarsak da resmi seçip değişkenimize atayabiliriz.</p>
 
-<a href="https://medium.com/swift-t%C3%BCrkiye/swift-snippet-1-color-image-literal-d242e014379a">Yazının Kaynağı</a>
+<a href="https://medium.com/swift-t%C3%BCrkiye/swift-snippet-1-color-image-literal-d242e014379a">***Yazının Kaynağı : Medium - Hüseyin Bagana***</a>

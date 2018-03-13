@@ -2,7 +2,7 @@
 title: "Color-Image Literal \U0001F3A8\U0001F366"
 layout: post
 description: Swift Color Image Literal
-image: assets/images/swift_logo.png
+image: assets/images/color-image-literal/xcode-logo.png
 ---
 
 <blockquote name="ea43" id="ea43" class="graf graf--pullquote graf-after--h3"><strong class="markup--strong markup--pullquote-strong">XCode 8</strong>'in bize sağladığı yeni nimetlerden olan <strong class="markup--strong markup--pullquote-strong">Color Literal</strong> ve <strong class="markup--strong markup--pullquote-strong">Image</strong> <strong class="markup--strong markup--pullquote-strong">Literal</strong> dan bahsetmek istiyorum. <strong class="markup--strong markup--pullquote-strong">UIColor</strong> veya <strong class="markup--strong markup--pullquote-strong">UIImage</strong> sınıflarına ait nesneleri yaratırken **muallakta** kaldığımız oluyor.</blockquote>

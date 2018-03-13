@@ -94,7 +94,7 @@ nav-menu: true
 		<p>Yazılımla lisenin başlarında tanışmıştım. O dönemlerde "Bu oyunları nasıl yapıyorlar, Bu butona bastığımda beni nasıl anlıyor" falan diye sorgularken meslek lisesi bilgisayar bölümü okuyan arkadaşımın bilgisayarın dilleri var 0 ve 1 den oluşan rakamlarla derdini anlatıyorsun demişti. Aslında hikayemin heyacanlı kısmına gelmedim hala. 
 		<br> Özgeçmişim ve yazılımla tanışma hikayem için aşağıdaki butona tıkla !</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Hakkımda</a></li>
+			<li><a href="hakkimda.html" class="button next">Hakkımda</a></li>
 		</ul>
 	</div>
 </section>

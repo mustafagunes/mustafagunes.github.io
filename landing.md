@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>“Edelkrone” Hikayesi ve Kadir Köymen</h3>
 				</header>
-				<p>Yotoube’da “Başka Bir Şey”(Sonradan videolar yayından kaldırıldı) adında bi video serisine denk geldim, bitakım değişik adamlar değişik bişeyler peşindeydi. Yaptıkları çok hoşuma gitti. Biraz araştırınca altından Edelkrone adında bi firma çıktı . . .</p>
+				<p>Yotoube’da “Başka Bir Şey”(Sonradan videolar yayından kaldırıldı) adında bi video serisine denk geldim, bitakım değişik adamlar değişik bişeyler peşindeydi. Yaptıkları çok hoşuma gitti. Biraz araştırınca altından Edelkrone adında bi firma çıktı ...</p>
 				<ul class="actions">
 					<li><a href="edelkrone-kadir-koymen.html" class="button">Yazının Devamı ...</a></li>
 				</ul>
@@ -47,7 +47,7 @@ nav-menu: true
 					<h3>Bir ‘başarı hikayesi’ olarak ben?<br> Serdar Kuzuloğlu</h3>
 				</header>
 				<p>BloombergHT’de Yaprak Özer’in Başarı Hikayeleri programına birkaç defa denk gelmiştim.<br> 
-				Böyle programlardan hep korkmuşumdur. Seyirciyken hep büyük bir başarı öyküsünün sırrına ulaşmak istersin; konukken de sürekli bir başarı anlatma stresine düşersin. . .</p>
+				Böyle programlardan hep korkmuşumdur. Seyirciyken hep büyük bir başarı öyküsünün sırrına ulaşmak istersin; konukken de sürekli bir başarı anlatma stresine düşersin ...</p>
 				<ul class="actions">
 					<li><a href="m-serdar-kuzuloglu.html" class="button">Yazının Devamı ...</a></li>
 				</ul>

@@ -3,7 +3,6 @@ title: "“Edelkrone” Hikayesi ve Kadir Köymen"
 layout: post
 description: Türkiye'nin Apple'ı !
 image: assets/images/edelkrone-kadir-koymen/kadirkoymen.jpg
-nav-menu: true
 ---
 
 <div class="section-divider"><hr class="section-divider"></div>

@@ -3,7 +3,6 @@ title: Bir ‘başarı hikayesi’ olarak ben? -M.Serdar Kuzuloğlu
 layout: post
 description: İnternet Ekipler Amiri !
 image: assets/images/m-serdar-kuzuloglu/mserdar-kuzuloglu.jpeg
-nav-menu: true
 ---
 
 <div class="section-divider"><hr class="section-divider"></div>

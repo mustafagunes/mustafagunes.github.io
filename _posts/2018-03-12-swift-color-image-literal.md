@@ -5,6 +5,8 @@ description: Swift Color Image Literal
 image: assets/images/color-image-literal/xcode-logo.png
 ---
 
+<div class="section-divider"><hr class="section-divider"></div>
+
 <blockquote name="ea43" id="ea43" class="graf graf--pullquote graf-after--h3"><strong class="markup--strong markup--pullquote-strong">XCode 8</strong>'in bize sağladığı yeni nimetlerden olan <strong class="markup--strong markup--pullquote-strong">Color Literal</strong> ve <strong class="markup--strong markup--pullquote-strong">Image</strong> <strong class="markup--strong markup--pullquote-strong">Literal</strong> dan bahsetmek istiyorum. <strong class="markup--strong markup--pullquote-strong">UIColor</strong> veya <strong class="markup--strong markup--pullquote-strong">UIImage</strong> sınıflarına ait nesneleri yaratırken **muallakta** kaldığımız oluyor.</blockquote>
 
 <code class="markup--code markup--p-code">_ = UIColor(red: 0.5, green: 0.2, blue: 0.5, alpha: 0.2)</code>
@@ -19,4 +21,6 @@ image: assets/images/color-image-literal/xcode-logo.png
 
 <p name="b911" id="b911" class="graf graf--p graf-after--figure graf--trailing">Normalde <strong class="markup--strong markup--p-strong">Image Literal</strong> yazıp ardından açılan menüden eklemek istediğimiz dosyayı seçiyoruz ama direk filename‘ i tuşlarsak da resmi seçip değişkenimize atayabiliriz.</p>
 
-<a href="https://medium.com/swift-t%C3%BCrkiye/swift-snippet-1-color-image-literal-d242e014379a">***Yazının Kaynağı : Medium - Hüseyin Bagana***</a>
+<div class="section-divider"><hr class="section-divider"></div>
+
+# <a href="https://medium.com/swift-t%C3%BCrkiye/swift-snippet-1-color-image-literal-d242e014379a" target="_blank">***Yazının Kaynağı : Medium - Hüseyin Bagana***</a>

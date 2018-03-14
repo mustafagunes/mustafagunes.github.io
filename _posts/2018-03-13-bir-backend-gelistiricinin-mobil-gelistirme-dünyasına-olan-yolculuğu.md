@@ -5,6 +5,8 @@ description: Okunması gereken tecrübe ...
 image: assets/images/bir-backend-gelistiricinin-mobil-gelistirme-dunyasina-olan-yolculugu/bir-backend-gelistiricinin-mobil-gelistirme-dunyasina-olan-yolculugu.jpeg
 ---
 
+<div class="section-divider"><hr class="section-divider"></div>
+
 # An unexpected journey
 Sanırım yaklaşık on yıldır, çoğunlukla backend olmak üzere birçok proje içerisinde yer aldım. Bunların hemen hemen hepsi .Net platformundaydı. Son iki yıldır ise Python, Nodejs, Angular gibi, Türkiye’de .Net developer’larının çok girmediği mecralara girmeye başladım. Fakat mobil geliştirme deneyimim Windows Mobile’da (CE’den 6.0'a kadar) RS232 ile çalışmak ve web servis tüketmek gibi abidik gubidik işler dışında hiç olmadı.
 
@@ -69,5 +71,6 @@ Open source’un en güzel yanı, bir ürün ortaya çıktıktan sonra, tüm dev
 
 Bunun bir üst level’ı da, FB’nin “arkadaşlar bizdeki komponent’e destek vermiyoruz, gidip şurdan kullanın” diye sizi iyice güvensiz hissettirmesi. Burada bahsettiğim component, map (harita) component’i. Bir mobil uygulama için gayet temel component’lerden biri olan bu map component’i için, Airbnb’nin geliştirdiği react-native-maps’i kullanmanız gerekiyor. Çünkü RN ile gelen map’te Android desteği yok. Şimdi burada, “ee ne var bunda” diyebilirsiniz. Ben olsam ben de derdim. Ama react-native-maps component’inin literatüre “BLANK MAP” olarak geçen bir issue’su var ki… Dillere destan. Hikayeyi okumak ve insanların çaresizlikten kendi aralarında neler yapmaya çalıştığını görmek isterseniz <a href="https://github.com/airbnb/react-native-maps/issues/118" data-href="https://github.com/airbnb/react-native-maps/issues/118" class="markup--anchor markup--p-anchor" rel="noopener nofollow" target="_blank">şuradan buyurun.</a>
 
+<div class="section-divider"><hr class="section-divider"></div>
 
-<a href="https://medium.com/codefiction/bir-backend-geli%C5%9Ftiricinin-mobil-geli%C5%9Ftirme-d%C3%BCnyas%C4%B1na-olan-yolculu%C4%9Fu-1-105db01da3d1">***Yazının Kaynağı : Medium - Onur Aykaç***</a>
+# <a href="https://medium.com/codefiction/bir-backend-geli%C5%9Ftiricinin-mobil-geli%C5%9Ftirme-d%C3%BCnyas%C4%B1na-olan-yolculu%C4%9Fu-1-105db01da3d1" target="_blank">***Yazının Kaynağı : Medium - Onur Aykaç***</a>

@@ -22,6 +22,23 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="hakkimda.html" class="image">
+			<img src="assets/images/profile.jpeg" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Mustafa GÜNEŞ</h3>
+				</header>
+				<p>Yazılımla lisenin başlarında tanışmıştım. O dönemlerde "Bu oyunları nasıl yapıyorlar, Bu butona bastığımda beni nasıl anlıyor" falan diye sorgularken meslek lisesi bilgisayar bölümü okuyan arkadaşımın bilgisayarın dilleri var 0 ve 1 den oluşan rakamlarla derdini anlatıyorsun demişti. Aslında hikayemin heyacanlı kısmına gelmedim hala.<br> <br>
+				Özgeçmişim ve hakkımda daha fazlası için tıkla !</p>
+				<ul class="actions">
+					<li><a href="hakkimda.html" class="button next">Hakkımda ...</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="edelkrone-kadir-koymen.html" class="image">
 			<img src="assets/images/edelkrone-kadir-koymen/kadirkoymen.jpg" alt="" data-position="center center" />
 		</a>
@@ -55,23 +72,17 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="hakkimda.html" class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+		<a href="erenbali-udemy.html" class="image">
+			<img src="assets/images/erenbali-udemy/eren-bali.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>İlknur Karaaslan</h3>
+					<h3>Eren Bali</h3>
 				</header>
-				<p><p>Marcello Fiocco dördüncü sınıftayken, öğretmeni tüm sınıfa sıradışı bir alıştırma verdi. Onlardan her gün gördükleri bir objeyi gözlemlemelerini istedi — bu bir masa olabilirdi veya bir pencere —  ve yeniden görmelerini. Bu anı hiç unutmadı ve yıllar sonra felsefe üzerine yüksek lisans eğitimi almaya karar vermesinde etken oldu.
-				<br><br>
-				Bugün Fiocco kendi sınıflarında bunun gibi anlamlı anlar yaratmaya çalıştığı Irvine’daki Kaliforniya Üniversitesi’nde felsefe profesörüdür. Ama bunu yalnızca üniversite öğrencileri için yapmıyor. Yerel ilkokullara gidiyor ve yanında yüksek lisans öğrencilerini de götürüyor.
-				<br><br>
-				Fiocco projesine “TH!NK” adını verdi. Çok basit bir tasarım: Bir filozof dört hafta boyunca, her hafta bir saat olmak üzere aynı grup ilkokul öğrencilerini ziyaret eder. Filozof seslice kısa bir parça okur — genellikle bir hikaye —sonrasında hikaye üzerine çocuklarla felsefi tartışma başlatıp yönlendirmeye başlar. Fiocco’nun bana yönelttiği tipik bir soru: “Şeffaf bir şekle sahip olabilir miyiz?” ya da Küçük Prens’ten bir alıntı yaparak tartışma lideri şöyle sorabilir: “ Ayın sahibi olabilir miyim?”
-				<br><br>
-				Çocuklar bu zor sorulara hevesle cevap veriyorlar. Felsefe yüksek lisans öğrencisi Kourosh Alizadeh “Hepsi cevap vermekten ya da tartışmalara katılmaktan oldukça heyecan duyuyor ve bunu görmek çok güzel” diye anlattı. “Onları zorlamaya devam ediyoruz.” dedi Fiocco. “Onlara neden diye sormaya devam ediyoruz.” Beşinci sınıf bir öğrencinin haykırışını anımsattı: “Çok fazla düşünüyorum, beynim acıyor!”</p></p>
+				<p>Google, Facebook, Twitter, Instagram... Hepsi milyarlarca dolarlık birer başarı öyküsü. Hikayeleri elbet birbirinden farklı ama en başta tek bir ortak noktaları vardı; iyi bir fikir ...</p>
 				<ul class="actions">
-					<li><a href="hakkimda.html" class="button">Yazının Devamı ...</a></li>
+					<li><a href="erenbali-udemy.html" class="button">Yazının Devamı ...</a></li>
 				</ul>
 			</div>
 		</div>
@@ -82,12 +93,11 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Mustafa GÜNEŞ</h2>
+			<h2>Developer Field</h2>
 		</header>
-		<p>Yazılımla lisenin başlarında tanışmıştım. O dönemlerde "Bu oyunları nasıl yapıyorlar, Bu butona bastığımda beni nasıl anlıyor" falan diye sorgularken meslek lisesi bilgisayar bölümü okuyan arkadaşımın bilgisayarın dilleri var 0 ve 1 den oluşan rakamlarla derdini anlatıyorsun demişti. Aslında hikayemin heyacanlı kısmına gelmedim hala. 
-		<br> Özgeçmişim ve yazılımla tanışma hikayem için aşağıdaki butona tıkla !</p>
+		<p></p>
 		<ul class="actions">
-			<li><a href="hakkimda.html" class="button next">Hakkımda</a></li>
+			<li><a href="hakkimda.html" class="button next">Click</a></li>
 		</ul>
 	</div>
 </section>
